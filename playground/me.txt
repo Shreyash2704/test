@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shreyash
-Skills: HTML, CSS, JS, React.js
-Email: shreyashmatele274@gmail.com
-{{/user}}
